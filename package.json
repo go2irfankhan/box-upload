@@ -1,0 +1,25 @@
+{
+  "name": "node-api",
+  "version": "1.0.0",
+  "description": "Node api to upload file in box",
+  "main": "server.js",
+  "dependencies": {
+    "fs": "^0.0.2",
+    "express": "^4.0.0",
+    "body-parser": "^1.0.2",
+    "morgan": "^1.0.1",
+    "mongoose": "^3.6.20",
+    "request": "^2.62.0",
+    "string": "^3.3.1"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/scotch-io/node-api.git"
+  },
+  "author": "irfan khan",
+  "license": "MIT"
+}
